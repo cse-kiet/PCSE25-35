@@ -1,10 +1,10 @@
-# Title of Project: [PROJECT_TITLE_HERE]
+# Title of Project: MAPSYNTH : "GIS based interactive global information platform for enhancing Navigation and Data Visualization" 
 
 ## Team Members:
-1. [TEAM_MEMBER_1_NAME]
-2. [TEAM_MEMBER_2_NAME]
-3. [TEAM_MEMBER_3_NAME]
-4. [TEAM_MEMBER_4_NAME]
+1. MANSI VERMA
+2. PARVENDRA SINGH
+3. RAJAT TEVATIA
+4. RISHABH KUMAR CHAUDHARY
 
 ## Steps for Execution:
 1. [STEP 1]
