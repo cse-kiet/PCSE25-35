@@ -35,7 +35,7 @@ Step 2. older-wise Setup
 |--------------------------------------------------|--------------|
 | Final Project Report                             | ✅ Done       |
 | Certificate VII Semester (Dated: December 2024)  |        |
-| Certificate VIII Semester (Dated: May 2025)      |        |
+| Certificate VIII Semester (Dated: May 2025)      | ✅ Done       |
 | Synopsis                                         | ✅ Done       |
 | Final Presentation                               | ✅ Done       |
 | Source Code                                      | ✅ Done       |
