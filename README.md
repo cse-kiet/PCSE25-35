@@ -12,6 +12,7 @@ MAP SYNTH : "GIS based interactive global information platform for enhancing Nav
 ## Steps for Execution:
 Step 1. **Clone this repository to your local machine**  
 - git clone https://github.com/cse-kiet/PCSE25-35.git
+  
 Step 2. older-wise Setup
 - Custom_Pointer_&_detailed_street Folder
   1. Open index.html in a browser
